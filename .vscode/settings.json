@@ -1,0 +1,6 @@
+{
+    "typescript.tsdk": "",
+    "python.analysis.extraPaths": [
+        "./work_parser"
+    ]
+}
